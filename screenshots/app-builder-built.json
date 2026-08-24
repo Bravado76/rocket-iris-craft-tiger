@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bravado",
+      "hasCanvas": false,
+      "bodyTextLen": 3347,
+      "bodyTextHash": "2ba85a1c0b387cfc6aaf0db5f7660056b901bbc15297b332bdd4ce126fb3b5cf",
+      "bodyTextPrefix": "Bravado Work Bio Clients Contact Book a cut DALLAS JENSEN SHORT-",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bravado",
+      "hasCanvas": false,
+      "bodyTextLen": 2531,
+      "bodyTextHash": "91ef912843d14b8ba36919a7fd1ba24a25ec46f7c827e19592d27018c3143aac",
+      "bodyTextPrefix": "Bravado DALLAS JENSEN SHORT-FORM VIDEO EDITOR Cuts that hold. Fo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
